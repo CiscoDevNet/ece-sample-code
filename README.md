@@ -22,7 +22,7 @@ Documentation for the ECE Mobile Chat Template can be found in the [Mobile Chat 
 The ECE APIs requires a deployment that includes Cisco Enterprise Chat and Email.
 
 ## Disclaimer
-This sampel code is only a sample and is **NOT guaranteed to be bug free and production quality**.
+This sample code is only a sample and is **NOT guaranteed to be bug free and production quality**.
 
 ## Support Notice
 [Support](https://developer.cisco.com/site/support) for the samples is provided on a "best effort" basis via DevNet. Like any custom deployment, it is the responsibility of the partner and/or customer to ensure that the customization works correctly and this includes ensuring that the sample code is properly integrated into 3rd party applications. Cisco reserves the right to make changes to the code and corresponding API as part of the normal release cycle.
